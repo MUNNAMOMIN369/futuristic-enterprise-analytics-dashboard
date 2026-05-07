@@ -4,12 +4,9 @@
   "devCommand": "npm run dev",
   "framework": "vite",
   "installCommand": "npm install",
-  "env": [
-    {
-      "key": "NODE_ENV",
-      "value": "production"
-    }
-  ],
+  "env": {
+    "NODE_ENV": "production"
+  },
   "headers": [
     {
       "source": "/assets/(.*)",
