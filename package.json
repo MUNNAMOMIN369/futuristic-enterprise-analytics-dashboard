@@ -1,12 +1,14 @@
 {
-  "name": "react-vite-tailwind",
+  "name": "futuristic-enterprise-analytics-dashboard",
+  "description": "A cutting-edge enterprise analytics dashboard with AI insights",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "lint": "echo 'Linting disabled for now'"
   },
   "dependencies": {
     "clsx": "2.1.1",
